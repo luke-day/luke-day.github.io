@@ -45,6 +45,6 @@
 	color: white;
 }
 
-.section-navigation {
+.section-navigation mdl-bottom {
 	display: none;
 }
