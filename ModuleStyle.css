@@ -22,11 +22,12 @@
 
 .courseLevelIntro {
     background-image: url('/france-night.jpg');
-    background-size:cover;
+    background-size:contain;
     padding: 10px;
     font-size: 1.1em;
     margin: 10px 0;
-    display: block;
+    background-size: auto 100%;
+	
 }
 
 .levelNav {
