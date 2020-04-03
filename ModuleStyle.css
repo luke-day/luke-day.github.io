@@ -20,6 +20,11 @@
 			color: #040406;
 		}
 
+.enrolment {
+	background-image: url('/enrolment.png');
+	background-size: cover;
+}
+
 .courseLevelIntro {
     background-image: url('/france-night.jpg');
     padding: 10px;
