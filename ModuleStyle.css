@@ -30,16 +30,21 @@
 }
 
 .levelNav {
-    padding: 5px;
+    padding: 10px 5px;
     font-size: 1.1em;
     margin: 10px 0;
     position: relative;
     background: rgba(255, 255, 255, 0.4);
+    border-left: 4px solid #f77331;
 }
 
 .divtext {
-	background: rgba(255, 255, 255, 0.4);
+	background: rgba(181, 181, 181, 0.4);
 	padding: 0px 15px 15px 15px;
 	Font-family: Arial,Helvetica,sans-serif;
 	color: white;
+}
+
+.section-navigation {
+	display: none;
 }
