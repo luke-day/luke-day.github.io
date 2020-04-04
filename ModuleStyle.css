@@ -28,6 +28,7 @@
 
 .courseLevelIntro {
     background-image: url('/Madrid.png');
+    opacity: 0.8;
     /*background-image: url('/france-night.jpg');*/
     padding: 10px;
     font-size: 1.1em;
