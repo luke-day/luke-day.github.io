@@ -45,6 +45,11 @@
     border-left: 6px solid #f77331;
 }
 
+.levelNav a:hover {
+	background: rgba(255, 255, 255, 0.6);
+	color: #f77331;
+}
+
 .divtext {
 	background: rgba(181, 181, 181, 0.4);
 	padding: 0px 15px 15px 15px;
@@ -56,11 +61,10 @@
 	display: none;
 }
 
-
 .fas fa-book {
 	color: #f77331;
 	display: inline-block;
-	margin-right: 12px;
+	margin-right: 10px;
 }
 
 .nav navtabs {
