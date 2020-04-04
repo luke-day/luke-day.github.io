@@ -37,12 +37,12 @@
 }
 
 .levelNav {
-    padding: 10px 5px;
+    padding: 12px 5px;
     font-size: 1.1em;
     margin: 10px 0;
     position: relative;
     background: rgba(255, 255, 255, 0.4);
-    border-left: 4px solid #f77331;
+    border-left: 6px solid #f77331;
 }
 
 .divtext {
