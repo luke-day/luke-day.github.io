@@ -1,5 +1,4 @@
 		.page-header{
-
 			background-image: url('/LRC-BG.png');
 			background-repeat: no-repeat;
 
@@ -28,7 +27,8 @@
 }
 
 .courseLevelIntro {
-    background-image: url('/france-night.jpg');
+    background-image: url('/Madrid.png');
+    /*background-image: url('/france-night.jpg');*/
     padding: 10px;
     font-size: 1.1em;
     margin: 10px 0;
