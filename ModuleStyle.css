@@ -74,7 +74,7 @@
 }
 
 
-.twitter-timeline {
+twitter-widget-0 {
   /* Buttonish */
   display: inline-block;
   padding: 6px 12px 6px 30px;
@@ -86,6 +86,6 @@
 
   /* Text */
   font: normal 12px/18px Helvetica, Arial, sans-serif;
-  color: #ffffff;
+  color: #ffffff!important;
   white-space: nowrap;
 }
