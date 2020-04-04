@@ -49,6 +49,7 @@
 	background: rgba(255, 255, 255, 0.6);
 	border-left: 6px 1px 1px 1px solid #f77331;
 	color: #f77331;
+	cursor: pointer;
 }
 
 .divtext {
