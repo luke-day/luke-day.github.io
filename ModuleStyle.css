@@ -84,7 +84,7 @@
 }
 .panel-title {
  font-size: 25px; 
- color: #FFFFFF;
+ color: #FFFFFF!important;;
  font-family: 'Open Sans', sans-serif;
 }
 .panel-heading {
