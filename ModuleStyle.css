@@ -89,3 +89,7 @@ a.twitter-timeline {
   color: #ffffff;
   white-space: nowrap;
 }
+
+.timeline-Tweet-text {
+	color: white;	
+}
