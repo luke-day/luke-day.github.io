@@ -73,19 +73,6 @@
 	background-color: #322658;	
 }
 
-
-twitter-widget-0 {
-  /* Buttonish */
-  display: inline-block;
-  padding: 6px 12px 6px 30px;
-  margin: 10px 0;
-  border: #ccc solid 1px;
-  border-radius: 3px;
-  background: #ffefe8 url("") 8px 8px no-repeat;
-  background-size: 1em 1em;
-
-  /* Text */
-  font: normal 12px/18px Helvetica, Arial, sans-serif;
-  color: #ffffff!important;
-  white-space: nowrap;
+.SandboxRoot.env-bp-550 .timeline-Tweet-text {
+	color: #ffffff!important;	
 }
