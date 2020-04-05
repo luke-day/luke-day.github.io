@@ -77,11 +77,32 @@
 	margin-right: 10px;
 }
 
-.nav navtabs {
-	background-color: #f77331;	
-}
-
 .single-section {
 	background-image: linear-gradient( 243deg,  rgba(255,253,221,1) 13.4%, rgba(248,215,215,1) 82.1% );
 }
 
+/* Full */
+.nav-tabs {
+background-color: white;
+border-bottom: 2px solid #f77331;
+}
+
+.format-onetopic .onetopic .tabcontent {
+    
+    border-left: solid 1px #fbc8af;
+    border-top: solid 1px #fbc8af;
+    border-right: solid 1px #fbc8af;
+}
+
+.format-onetopic .tab-content {
+    background-color: #fefceb;
+}
+
+.format-onetopic .tab_content.marker {
+    color: #ffffff;
+    background-color: #f77331;
+}
+
+.course-content .single-section .section-navigation.mdl-bottom {
+    background-color: white;
+}
