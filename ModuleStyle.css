@@ -48,9 +48,13 @@
     font-size: 1.1em;
     margin: 10px 0;
     position: relative;
-    background: rgba(255, 255, 255, 0.44);
+    background: rgba(255, 255, 255, 0.2);
+    /* backdrop-filter: blur(10px); */
     border-left: 6px solid #f77331;
     border-radius: 12px;
+    border-top: solid 1px rgb(255,255,255,0.8);
+    border-right: solid 1px rgb(255,255,255,0.8);
+    border-bottom: solid 1px rgb(255,255,255,0.8);
 }
 
 .levelNav a:hover {
