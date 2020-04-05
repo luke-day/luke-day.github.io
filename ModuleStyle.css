@@ -81,6 +81,7 @@
 	background-color: #322658;	
 }
 
-.dynamic-content {
-    display:none;
+.single-section onetopic {
+	background-image: url('/8457.png');
 }
+
