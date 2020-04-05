@@ -1,0 +1,30 @@
+		.page-header{
+
+		background-image: url('/LRC-BG.png');
+		background-repeat: no-repeat;
+		background-position: left -45px;
+		background-size:cover;
+		width: 100%;
+		min-height: 110px;
+		position:relative;
+		float:right;
+		margin:0;
+		font-size:200%;	
+		background-color: #3E6052;
+		}
+		.page-header p{
+			font-size: 0.5em;
+			line-height: 1.4em;
+			padding: 0 15px;
+			color: #040406;
+		}
+
+
+
+.courseLevelIntro {
+    background-image: url(france-night.jpg);
+    padding: 10px;
+    font-size: 1.1em;
+    margin: 10px 0;
+    position: relative;
+}
