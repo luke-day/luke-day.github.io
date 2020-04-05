@@ -28,7 +28,15 @@
 
 .courseLevelIntro {
     background-image: url('/California.jpg');
-    /*background-image: url('/france-night.jpg');*/
+    padding: 10px;
+    font-size: 1.1em;
+    margin: 10px 0;
+    background-size: cover;
+    border-radius: 25px;
+}
+
+.courseLevelIntro2 {
+    background-image: url('/france-night.jpg');
     padding: 10px;
     font-size: 1.1em;
     margin: 10px 0;
