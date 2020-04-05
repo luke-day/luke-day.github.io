@@ -27,7 +27,7 @@
 }
 
 .courseLevelIntro {
-    background-image: url('/8457.png');
+    background-image: linear-gradient( 243deg,  rgba(255,253,221,1) 13.4%, rgba(248,215,215,1) 82.1% );
     padding: 10px;
     font-size: 1.1em;
     margin: 10px 0;
@@ -82,6 +82,6 @@
 }
 
 .single-section {
-	background-color: #322658!important;
+	background-image: linear-gradient( 243deg,  rgba(255,253,221,1) 13.4%, rgba(248,215,215,1) 82.1% );
 }
 
