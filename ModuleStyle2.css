@@ -1,16 +1,16 @@
 		.page-header{
+			background-image: url('/LRC-BG.png');
+			background-repeat: no-repeat;
 
-		background-image: url('/LRC-BG.png');
-		background-repeat: no-repeat;
-		background-position: left -45px;
-		background-size:cover;
-		width: 100%;
-		min-height: 110px;
-		position:relative;
-		float:right;
-		margin:0;
-		font-size:200%;	
-		background-color: #3E6052;
+			background-size:cover;
+			background-position: 50% 50%;
+			width: 100%;
+			min-height: 110px;
+			position:relative;
+			float:right;
+			margin:0;
+			font-size:200%;	
+			background-color: #3E6052;
 		}
 		.page-header p{
 			font-size: 0.5em;
@@ -19,12 +19,58 @@
 			color: #040406;
 		}
 
-
+.enrolment {
+	background-image: url('/enrolment.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 120px;
+}
 
 .courseLevelIntro {
-    background-image: url(france-night.jpg);
+    background-image: linear-gradient( 243deg,  rgba(255,253,221,1) 13.4%, rgba(248,215,215,1) 82.1% );
     padding: 10px;
     font-size: 1.1em;
     margin: 10px 0;
-    position: relative;
+    border-radius: 25px;
 }
+
+.courseLevelIntro2 {
+    background-image: url('/france-night.jpg');
+    padding: 10px;
+    font-size: 1.1em;
+    margin: 10px 0;
+    background-size: cover;
+    border-radius: 25px;
+}
+
+.levelNav {
+    padding: 12px 5px;
+    font-size: 1.1em;
+    margin: 10px 0;
+    position: relative;
+    background: rgba(255, 255, 255, 0.2);
+    border-left: 6px solid #f77331;
+    border-radius: 12px;
+}
+
+.levelNav a:hover {
+	background: rgba(255, 255, 255, 0.6);
+	border-left: 6px 1px 1px 1px solid #f77331;
+	color: #f77331;
+	cursor: pointer;
+}
+
+.divtext {
+	background: rgba(181, 181, 181, 0.4);
+	padding: 0px 15px 15px 15px;
+	Font-family: Arial,Helvetica,sans-serif;
+	color: white;
+}
+
+
+.fas fa-book {
+	color: #f77331;
+	display: inline-block;
+	margin-right: 10px;
+}
+
