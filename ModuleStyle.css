@@ -93,6 +93,10 @@ background-color: white;
 /*border-bottom: 2px solid #f77331;*/
 }
 
+.dynamic-content {
+	display:none;
+}
+
 /* Full
 .format-onetopic .onetopic .tabcontent {
     
