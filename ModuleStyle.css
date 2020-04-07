@@ -133,3 +133,8 @@ background-color: white;
     /* background-color: rgba(255, 255, 255, 1.0); */
     background-image: linear-gradient(45deg, #feebd9, #fce9fd);
 }
+
+/*Twitter*/
+.timeline-Tweet {
+    background-color: rgb(255,255,255,.4);
+}
