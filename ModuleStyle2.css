@@ -132,7 +132,7 @@
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background: #f77331;
+  background: #ff770f;
   transition: .5s;
   transform: scale(.9);
   z-index: -1;
@@ -140,11 +140,11 @@
 
 .icon ul li a:hover::before {
   transform: scale(1.1);
-  box-shadow: 0 0 15px #ffee10;
+  box-shadow: 0 0 15px #ff770f;
 }
 
 .icon ul li a:hover {
   color: #ffee10;
-  box-shadow: 0 0 5px #f77331;
-  text-shadow: 0 0 5px #f77331;
+  box-shadow: 0 0 5px #ff770f;
+  text-shadow: 0 0 5px #ff770f;
 }
