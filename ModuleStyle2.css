@@ -176,7 +176,7 @@
 
 #home .nav-tabs { /*No nav bar on home page */
   background-color: white;
-  display: none;
+  visibility: hidden;
 }
 
 .nav-tabs { /*Nav bar gradient */
