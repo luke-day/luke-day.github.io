@@ -127,7 +127,6 @@
     font-size: 30px;
     color: rgb(255,255,255,1);
     transition: .5s;
-    border: solid 1px rgb(255,255,255,1);
 }
 
 .icon ul li a::before {
