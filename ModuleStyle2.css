@@ -152,3 +152,14 @@
   box-shadow: 0 0 5px #ff770f;
   text-shadow: 0 0 5px #ff770f;
 }
+
+/* Single Section */
+.single-section {
+	background: linear-gradient(270deg, #fff4e9, #f4ecff, #ecfff8);
+	background-size: 400% 400%;
+	animation: gradient 30s ease infinite;
+	padding-top: 1%;
+	padding-left: 3%;
+	padding-right:3%;
+	padding-bottom:1%;
+}
