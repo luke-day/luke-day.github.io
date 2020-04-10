@@ -185,25 +185,35 @@ background-color: white;
 .icon ul {
   margin: 0;
   padding: 0;
+  display: flex;
+  position: absolute;
+  top: 50%;
+  left: 50%;
   transform: translate(-50%, -50%);
 }
 
 .icon ul li {
   list-style: none;
+  margin: 0 15px;
 }
 
 .icon ul li a {
+  position: relative; 
   display: block;
+  width: 60px;
+  height: 60px;
   text-align: center;
+  line-height: 63px;
   background: #333;
   border-radius: 50%;
-  font-size: 14px;
+  font-size: 30px;
   color: #666;
   transition: .5s;
 }
 
 .icon ul li a::before {
   content: '';
+  position: absolute;
   top: 0;
   left: 0;
   width: 100%;
