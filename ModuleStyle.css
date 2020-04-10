@@ -183,6 +183,7 @@ background-color: white;
 
 /* Icon Mouseover */
 .icon ul {
+  position: absolute;
   margin: 0;
   padding: 0;
   display: flex;
