@@ -114,18 +114,18 @@
 }
 
 .icon ul li a {
-  position: relative; 
-  display: block;
-  width: 60px;
-  height: 60px;
-  text-align: center;
-  line-height: 63px;
-  background: rgb(255, 255, 255, 0.4);
-  border-radius: 50%;
-  font-size: 30px;
-  color: #9db1c4;
-  transition: .5s;
-  border: solid 1px #9db1c4;
+    position: relative;
+    display: block;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    line-height: 63px;
+    background: rgb(0,112,168,0.2);
+    border-radius: 50%;
+    font-size: 30px;
+    color: rgb(255,255,255,1);
+    transition: .5s;
+    border: solid 1px rgb(255,255,255,1);
 }
 
 .icon ul li a::before {
@@ -136,7 +136,7 @@
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background: #ff770f;
+  background: #0070a8;
   transition: .5s;
   transform: scale(.9);
   z-index: -1;
@@ -148,9 +148,9 @@
 }
 
 .icon ul li a:hover {
-  color: #ff770f;
-  box-shadow: 0 0 5px #ff770f;
-  text-shadow: 0 0 5px #ff770f;
+  color: #0070a8;
+  box-shadow: 0 0 5px white;
+  text-shadow: 0 0 5px white;
 }
 
 /* Single Section */
