@@ -117,11 +117,12 @@
   height: 60px;
   text-align: center;
   line-height: 63px;
-  background: rgb(255, 255, 255, 0.7);
+  background: rgb(255, 255, 255, 0.4);
   border-radius: 50%;
   font-size: 30px;
-  color: #adbbc9;
+  color: #9db1c4;
   transition: .5s;
+  border: solid 1px #9db1c4;
 }
 
 .icon ul li a::before {
