@@ -174,7 +174,7 @@
     color: #f77331;
 }
 
-.home .nav-tabs { /*No nav bar on home page */
+#home .nav-tabs { /*No nav bar on home page */
   background-color: white;
   display: none;
 }
