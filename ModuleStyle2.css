@@ -163,11 +163,11 @@
 }
 
 /* Other */
-.page a {
+.anim a {
   color: #1d557d!important;
 }
 
-.page a:hover {
+.anim a:hover {
     color: #f77331;
 }
 
