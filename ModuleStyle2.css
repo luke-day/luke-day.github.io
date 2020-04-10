@@ -175,9 +175,9 @@
 }
 
 .nav-tabs { /*Nav bar gradient */
-  /*border-bottom: 3px solid #fb7e2959;*/
+  border-bottom: 3px solid #fb7e2959;
   background-color: white;
-  visibility: hidden!important;
+  visibility: hidden;
 }
 
 .nav-tabs>li>a {
