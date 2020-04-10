@@ -174,14 +174,10 @@
     color: #f77331;
 }
 
-#home .nav-tabs { /*No nav bar on home page */
+.nav-tabs { /*Nav bar gradient */
+  /*border-bottom: 3px solid #fb7e2959;*/
   background-color: white;
   visibility: hidden!important;
-}
-
-.nav-tabs { /*Nav bar gradient */
-  border-bottom: 3px solid #fb7e2959;
-  background-color: white;
 }
 
 .nav-tabs>li>a {
