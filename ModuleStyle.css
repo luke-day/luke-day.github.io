@@ -138,7 +138,7 @@ background-color: white;
 /* ------------- */
 
 .anim {
-	background: linear-gradient(309deg, #fce4cf, #e3d9ff, #c9f7ff, #e7ffd9);
+	background: linear-gradient(309deg, #fceafd, #ffebda, #cfe4ff, #d4ffeb);
 	background-size: 200% 200%;
 	animation: gradient 20s ease infinite;
 	padding-top: 1%;
