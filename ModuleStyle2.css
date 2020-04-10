@@ -51,17 +51,17 @@
     background: rgba(255, 255, 255, 0.2);
     border-left: 6px solid #f77331;
     border-radius: 12px;
-    border-top: solid 1px rgb(255,255,255,0.8);
-    border-right: solid 1px rgb(255,255,255,0.8);
-    border-bottom: solid 1px rgb(255,255,255,0.8);
+    border-top: solid 1px rgb(255,255,255,1);
+    border-right: solid 1px rgb(255,255,255,1);
+    border-bottom: solid 1px rgb(255,255,255,1);
 }
 
 .levelNav:hover {
 	background: rgba(255, 255, 255, 0.4);
 	border-left: 6px solid #f77331;
-   	border-top: solid 1px rgb(247, 115, 0.2);
-    	border-right: solid 1px rgb(247, 115, 0.2);
-    	border-bottom: solid 1px rgb(247, 115, 0.2);
+	border-top: solid 1px rgb(247, 115, 0, 0.2);
+    	border-right: solid 1px rgb(247, 115, 0, 0.2);
+    	border-bottom: solid 1px rgb(247, 115, 0, 0.2);
 	color: #f77331;
 	cursor: pointer;
 }
@@ -169,16 +169,10 @@ a {
 
 a:hover {
     color: #f77331;
+}
 
 .nav-tabs {
   border-bottom: 2px solid #fb7e29;
-  background-color: white!important;
-}
-
-.nav-tabs>.active>a, .nav-tabs>.active>a:hover, .nav-tabs>.active>a:focus, .nav-tabs a.nav-link.active {
-    background-color: #fb7e29;
-    color: #fff;
-    cursor: default;
-    border: medium none;
+  background-color: white;
 }
 
