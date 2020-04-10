@@ -172,7 +172,7 @@ a:hover {
 
 .nav-tabs {
   border-bottom: 2px solid #fb7e29;
-  background-color: white;
+  background-color: white!important;
 }
 
 .nav-tabs>.active>a, .nav-tabs>.active>a:hover, .nav-tabs>.active>a:focus, .nav-tabs a.nav-link.active {
