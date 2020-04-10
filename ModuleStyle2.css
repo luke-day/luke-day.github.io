@@ -159,3 +159,21 @@
 	background-size: 400% 400%;
 	animation: gradient 30s ease infinite;
 }
+
+/* Other */
+a {
+  color: #1d557d;
+}
+
+.nav-tabs {
+  border-bottom: 2px solid #fb7e29;
+  background-color: white;
+}
+
+.nav-tabs>.active>a, .nav-tabs>.active>a:hover, .nav-tabs>.active>a:focus, .nav-tabs a.nav-link.active {
+    background-color: #fb7e29;
+    color: #fff;
+    cursor: default;
+    border: medium none;
+}
+
