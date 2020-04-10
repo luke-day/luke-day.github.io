@@ -162,6 +162,10 @@
 	animation: gradient 30s ease infinite;
 }
 
+.section-navigation.mdl-bottom {
+	background-color: white;	
+}
+
 /* Other */
 .anim a {
   color: #1d557d!important;
