@@ -163,11 +163,11 @@
 }
 
 /* Other */
-a {
+.page a {
   color: #1d557d!important;
 }
 
-a:hover {
+.page a:hover {
     color: #f77331;
 }
 
