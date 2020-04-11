@@ -213,7 +213,7 @@
 /* Blocks */
 
 
-.pressReader {
+#pressReader {
     width:280;
     height:93;
     background: linear-gradient(232deg, rgba(227,255,245,0.1) 0%, rgba(185,241,221,0.2) 100%);
@@ -223,7 +223,7 @@
     text-align: center;
     padding: 5%;	
 }
-.pressReader:hover {
+#pressReader:hover {
 	background: rgba(255, 255, 255, 0.4);
 	border-left: 6px solid #f77331;
 	border-top: solid 1px rgb(247, 115, 0, 0.2);
@@ -235,13 +235,13 @@
   	text-shadow: 0 0 15px #d35400;
 }
 
-.pressReader:before {
+#pressReader:before {
   	transition: .5s;
   	transform: scale(.9);
   	z-index: -1;
 }
 
-.pressReader:hover:before {
+#pressReader:hover:before {
 	transform: scale(1.2);
   	box-shadow: 0 0 15px #d35400;
   	filter: blur(3px);
