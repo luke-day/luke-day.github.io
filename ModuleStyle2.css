@@ -190,6 +190,7 @@
 
 /* Social Media */
 .socialMedia ul {
+  display: flex;
   position: absolute;
 }
 
