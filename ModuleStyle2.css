@@ -177,7 +177,14 @@
 .nav-tabs { /*Nav bar gradient */
   border-bottom: 3px solid #fb7e2959;
   background-color: white;
-  display: none;
+  
+  visibility: hidden;
+}
+
+#content .nav-tabs {
+  border-bottom: 3px solid #fb7e2959;
+  background-color: white;
+  visibility: visible;
 }
 
 .nav-tabs>li>a {
