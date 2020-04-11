@@ -103,57 +103,6 @@
 	}
 }
 
-/* Mouseover Icons */
-.icon ul {
-  margin: 0;
-  padding: 0;
-  display: flex;
-}
-
-.icon ul li {
-  list-style: none;
-  margin: 0 15px;
-}
-
-.icon ul li a {
-    position: relative;
-    display: block;
-    width: 60px;
-    height: 60px;
-    text-align: center;
-    line-height: 63px;
-    background: #3b5999;
-    border-radius: 50%;
-    font-size: 30px;
-    color: white;
-    transition: .5s;
-}
-
-.icon ul li a::before {
-  content: '';
-  position: relative;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border-radius: 50%;
-  background: #3b5999;
-  transition: .5s;
-  transform: scale(.9);
-  z-index: -1;
-}
-
-.icon ul li a:hover::before {
-  transform: scale(1.1);
-  box-shadow: 0 0 15px #f77331;
-}
-
-.icon ul li a:hover {
-  color: white;
-  box-shadow: 0 0 5px #f77331;
-  text-shadow: 0 0 5px #f77331;
-}
-
 /* Single Section */
 .single-section {
 	background-image: linear-gradient(270deg, #fff4e9, #f4ecff, #ecfff8);
