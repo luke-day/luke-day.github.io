@@ -207,7 +207,7 @@
 .socialMedia ul li a {
   width: 70px;
   height: 70px;
-  background-color: #fff8f0;
+  background-color: #ecf3ff;
   text-align: center;
   line-height: 70px;
   font-size: 35px;
@@ -216,7 +216,7 @@
   border-radius: 50%;
   position: relative;
   overflow: hidden;
-  border: 3px solid #fff;
+  border: 1px solid #1d557d1f;
   z-index: 1;
 }
 
