@@ -214,6 +214,8 @@
 
 
 .pressReader {
+    width:280;
+    height:93;
     background: linear-gradient(232deg, rgba(227,255,245,0.1) 0%, rgba(185,241,221,0.2) 100%);
     content:url(https://raw.githubusercontent.com/luke-day/luke-day.github.io/master/pressreader-pass.png);
     border: 1px solid #dee8e5;
