@@ -190,6 +190,10 @@
 
 
 /* Social Media */
+.socialMedia {
+   display: block;	
+}
+
 .socialMedia ul {
   display: flex;
   position: absolute;
@@ -200,11 +204,11 @@
 }
 
 .socialMedia ul li a {
-  width: 80px;
-  height: 80px;
+  width: 70px;
+  height: 70px;
   background-color: #fff8f0;
   text-align: center;
-  line-height: 80px;
+  line-height: 60px;
   font-size: 35px;
   margin: 0 10px;
   display: block;
