@@ -201,7 +201,7 @@
 .socialMedia ul li a {
   width: 80px;
   height: 80px;
-  background-color: #fff;
+  background-color: #fff8f0;
   text-align: center;
   line-height: 80px;
   font-size: 35px;
@@ -216,7 +216,7 @@
 
 .socialMedia ul li a .icon {
   position: relative;
-  color: #262626;
+  color: #1d557d;
   transition: .5s;
   z-index: 3;
 }
