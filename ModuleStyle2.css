@@ -257,6 +257,6 @@
 }
 
 .socialMedia ul li:nth-child(3) a:before {
-  background: linear-gradient(135deg, #5335cf 0%, #de005e 25%, #f66e48 50%, #de005e 75%, #5335cf 100%);
-  animation: animate_bg 10s infinite linear;
+  background: linear-gradient(135deg, rgba(83,53,207,1) 0%, rgba(222,0,94,1) 100%);
+  /*animation: animate_bg 10s infinite linear;*/
 }
