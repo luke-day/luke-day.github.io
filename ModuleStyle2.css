@@ -191,7 +191,8 @@
 
 /* Social Media */
 .socialMedia {
-   display: block;	
+   min-height: 120px;
+   display: block;
 }
 
 .socialMedia ul {
