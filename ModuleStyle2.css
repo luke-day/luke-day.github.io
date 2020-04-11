@@ -191,7 +191,8 @@
 
 /* Social Media */
 .socialMedia {
-   min-height: 120px;
+   min-height: 80px;
+   align: center;
    display: block;
 }
 
@@ -207,7 +208,7 @@
 .socialMedia ul li a {
   width: 70px;
   height: 70px;
-  background-color: #ecf3ff;
+  background-color: #ecefffba;
   text-align: center;
   line-height: 70px;
   font-size: 35px;
