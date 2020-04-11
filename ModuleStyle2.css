@@ -230,4 +230,27 @@
     	border-right: solid 1px rgb(247, 115, 0, 0.2);
     	border-bottom: solid 1px rgb(247, 115, 0, 0.2);
 	cursor: pointer;
+	
+	box-shadow: 0 0 15px #d35400;
+  	text-shadow: 0 0 15px #d35400;
+}
+
+.pressReader:before {
+  content: '';
+  position: absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  border-radius:50%;
+  background: #d35400;
+  transition: .5s;
+  transform: scale(.9);
+  z-index: -1;
+}
+
+.pressReader:hover:before {
+	transform: scale(1.2);
+  	box-shadow: 0 0 15px #d35400;
+  	filter: blur(3px);
 }
