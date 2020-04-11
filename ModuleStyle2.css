@@ -264,15 +264,15 @@
 /*-----------------------------------------------------*/
 
 
-.socialMedia {
+.social {
 
 }
 
-.socialMedia .list-unstyled {
+.social .list-unstyled {
 	padding-left: 0;
 	list-style: none;
 }
-.socialMedia .list-inline li {
+.social .list-inline li {
 	display: inline-block;
 	padding-right: 5px;
 	padding-left: 5px;
