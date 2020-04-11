@@ -215,7 +215,7 @@
 
 .pressReader {
     width:280px;
-    height:93px;
+    height:auto;
     background: linear-gradient(232deg, rgba(227,255,245,0.1) 0%, rgba(185,241,221,0.2) 100%);
     content:url(https://raw.githubusercontent.com/luke-day/luke-day.github.io/master/pressreader-pass.png);
     border: 1px solid #dee8e5;
@@ -230,12 +230,16 @@
     	border-right: solid 1px rgb(247, 115, 0, 0.2);
     	border-bottom: solid 1px rgb(247, 115, 0, 0.2);
 	cursor: pointer;
-	
+
 	box-shadow: 0 0 15px #d35400;
   	text-shadow: 0 0 15px #d35400;
 }
 
 .pressReader:before {
+	border-radius:10px;	
+	position: absolute;
+  	width:100%;
+  	height:100%;
   	transition: .5s;
   	transform: scale(.9);
   	z-index: -1;
