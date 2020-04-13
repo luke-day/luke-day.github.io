@@ -231,8 +231,8 @@
     	border-bottom: solid 1px rgb(247, 115, 0, 0.2);
 	cursor: pointer;
 
-	box-shadow: 0 0 15px #d35400;
-  	text-shadow: 0 0 15px #d35400;
+	box-shadow: 15px #d35400;
+  	text-shadow: 15px #d35400;
 }
 
 .pressReader:before {
@@ -247,6 +247,6 @@
 
 .pressReader:hover:before {
 	transform: scale(1.2);
-  	box-shadow: 0 0 15px #d35400;
+  	box-shadow: 15px #d35400;
   	filter: blur(3px);
 }
