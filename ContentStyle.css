@@ -130,12 +130,18 @@
     background-color: #2bc48c;
     color: #ffffff;
     font-weight: bold;
+    border-bottom: solid 1px #2bc48c;
+    border-top: solid 1px #2bc48c;
 }
 
 .nav-tabs>li>a {
-    border: solid 1px #f7d6c5;
-    background-color: #fff1ea;
-    color: #31425a;
+    border-left: solid 1px #e0d6d1;
+    border-top: solid 1px #e0d6d1;
+    border-bottom: solid 1px #fff1ea94;
+    border-right: solid 1px #e0d6d1;
+    background-color: #f7733114;
+    background-color: #fff1ea94;
+    color: #353535;
     font-weight: bold;
 }
 
