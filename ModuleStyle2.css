@@ -119,14 +119,6 @@
 }
 
 /* Other */
-.anim a {
-  color: #f15901!important;
-}
-
-.anim a:hover {
-    color: #f77331;
-}
-
 .nav-tabs { /*Nav bar gradient */
   border-bottom: 3px solid #fb7e2959;
   background-color: white;
