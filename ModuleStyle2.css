@@ -250,11 +250,13 @@
 
 
 /* Navigation */
+.nav-tabs {
+    border-bottom: 2px solid #2bc48c;
+}
+
 .nav-tabs>.active>a, .nav-tabs>.active>a:hover, .nav-tabs>.active>a:focus, .nav-tabs a.nav-link.active {
     background-color: #2bc48c;
     color: #fff;
-    cursor: default;
-    border-bottom-color: transparent;
 }
 
 .nav-tabs {
