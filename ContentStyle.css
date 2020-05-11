@@ -127,7 +127,7 @@
 }
 
 .nav-tabs>.active>a, .nav-tabs>.active>a:hover, .nav-tabs>.active>a:focus, .nav-tabs a.nav-link.active {
-    background-color: #ffb38d;
+    background-color: #2bc48c;
     /* border-left: solid 1px #f77331; */
     /* border-top: solid 1px #f77331; */
     color: #31425a;
@@ -138,7 +138,7 @@
 
 .nav-tabs>li>a {
     border: solid 1px #f7d6c5;
-    background-color: #fff3ed;
+    background-color: #fff1ea;
     color: #31425a;
     font-weight: bold;
     font-size: 16px;
