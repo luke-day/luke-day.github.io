@@ -255,12 +255,12 @@
 }
 
 .nav-tabs>.active>a, .nav-tabs>.active>a:hover, .nav-tabs>.active>a:focus, .nav-tabs a.nav-link.active {
-    background-color: #2bc48c;
+    background-color: #f77331;
     color: #fff;
 }
 
 .nav-tabs {
-    border-bottom: 1px solid #2bc48c;
+    border-bottom: 2px solid #f77331;
 }
 
 .nav-tabs>li>a:hover {
