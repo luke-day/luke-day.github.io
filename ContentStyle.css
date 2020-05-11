@@ -127,8 +127,13 @@
 }
 
 .nav-tabs>.active>a, .nav-tabs>.active>a:hover, .nav-tabs>.active>a:focus, .nav-tabs a.nav-link.active {
-    background-color: #f77331;
-    color: #fff;
+    background-color: #ffb38d;
+    /* border-left: solid 1px #f77331; */
+    /* border-top: solid 1px #f77331; */
+    color: #31425a;
+    font-weight: bold;
+    font-size: 16px;
+    /* border-right: solid 1px #f77331;
 }
 
 .nav-tabs>li>a {
