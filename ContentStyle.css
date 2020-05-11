@@ -144,10 +144,6 @@
     font-size: 16px;
 }
 
-.nav-tabs {
-    border-bottom: 1px solid #f77331;
-}
-
 .nav-tabs>li>a:hover {
 	background-color: #fb8932;
 }
