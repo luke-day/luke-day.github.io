@@ -131,8 +131,14 @@
     color: #fff;
 }
 
+.nav-tabs>li>a {
+    border: solid 1px #f7d6c5;
+    background-color: #fff3ed;
+    color: #2b355a;
+}
+
 .nav-tabs {
-    border-bottom: 2px solid #f77331;
+    border-bottom: 1px solid #f77331;
 }
 
 .nav-tabs>li>a:hover {
