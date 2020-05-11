@@ -1,0 +1,141 @@
+.enrolment {
+	background-image: url('/enrolment.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 120px;
+}
+
+.fas fa-book {
+	color: #f77331;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+/* Social Media */
+.socialMedia {
+   min-height: 80px;
+   display: block;
+}
+
+.socialMedia ul {
+  display: flex;
+  position: absolute;
+}
+
+.socialMedia ul li {
+  list-style: none;
+}
+
+.socialMedia ul li a {
+  width: 70px;
+  height: 70px;
+  background-color: #ecefffba;
+  text-align: center;
+  line-height: 70px;
+  font-size: 35px;
+  margin: 0 10px;
+  display: block;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid #1d557d1f;
+  z-index: 1;
+}
+
+.socialMedia ul li a .icon {
+  position: relative;
+  color: #1d557d;
+  transition: .5s;
+  z-index: 3;
+}
+
+.socialMedia ul li a:hover .icon {
+  color: #fff;
+  transform: rotateY(360deg);
+}
+
+.socialMedia ul li a:before {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #f00;
+  transition: .5s;
+  z-index: 2;
+}
+
+.socialMedia ul li a:hover:before {
+  top: 0;
+}
+
+.socialMedia ul li:nth-child(1) a:before{
+  background: #3b5999;
+}
+
+.socialMedia ul li:nth-child(2) a:before{
+  background: #55acee;
+}
+
+.socialMedia ul li:nth-child(3) a:before {
+  background: linear-gradient(135deg, rgba(83,53,207,1) 0%, rgba(222,0,94,1) 100%);
+  /*animation: animate_bg 10s infinite linear;*/
+}
+
+/* Blocks */
+
+
+.pressReader {
+    width:280px;
+    height:auto;
+    background: linear-gradient(232deg, rgba(227,255,245,0.1) 0%, rgba(185,241,221,0.2) 100%);
+    content:url(https://raw.githubusercontent.com/luke-day/luke-day.github.io/master/pressreader-pass.png);
+    border: 1px solid #dee8e5;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5%;	
+}
+.pressReader:hover {
+	background: rgba(255, 255, 255, 0.6);
+	border: solid 1px rgb(247, 115, 0, 0.4);
+	cursor: pointer;
+	box-shadow: 15px #d35400;
+  	text-shadow: 15px #d35400;
+}
+
+.pressReader:before {
+	border-radius:10px;	
+	position: absolute;
+  	width:100%;
+  	height:100%;
+  	transition: .5s;
+  	transform: scale(.9);
+  	z-index: -1;
+}
+
+.pressReader:hover:before {
+	transform: scale(1.2);
+  	box-shadow: 15px #d35400;
+  	filter: blur(3px);
+}
+
+
+/* Navigation */
+.nav-tabs {
+    border-bottom: 2px solid #2bc48c;
+}
+
+.nav-tabs>.active>a, .nav-tabs>.active>a:hover, .nav-tabs>.active>a:focus, .nav-tabs a.nav-link.active {
+    background-color: #f77331;
+    color: #fff;
+}
+
+.nav-tabs {
+    border-bottom: 2px solid #f77331;
+}
+
+.nav-tabs>li>a:hover {
+	background-color: #fb8932;
+}
+
