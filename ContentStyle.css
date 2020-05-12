@@ -123,29 +123,38 @@
 
 /* Navigation */
 .nav-tabs {
-    border-bottom: 2px solid #555;
+    border-bottom: 4px solid #f77331;
+    background-color: white;
 }
 
 .nav-tabs>.active>a, .nav-tabs>.active>a:hover, .nav-tabs>.active>a:focus, .nav-tabs a.nav-link.active {
-    background-color: #555;
-    color: #ffffff;
+    background-color: #ffceb6;
+    color: #000000;
     font-weight: bold;
-    border-bottom: solid 1px #555;
-    border-top: solid 1px #555;
+    border-bottom: solid 1px #ffceb6;
+    border-top: solid 1px #f77331;
+    border-left: solid 1px #f77331;
+    border-right: solid 1px #f77331;
 }
 
 .nav-tabs>li>a {
-    border-left: solid 1px #e0d6d1;
-    border-top: solid 1px #e0d6d1;
-    border-bottom: solid 1px #fff1ea94;
-    border-right: solid 1px #e0d6d1;
-    background-color: #f7733114;
-    background-color: #fff1ea94;
+    border-left: solid 1px #1379e454;
+    border-top: solid 1px #1379e454;
+    border-bottom: solid 1px #1379e41c;
+    border-right: solid 1px #1379e454;
+    /* background-color: #f7733114; */
+    background-color: #1379e41c;
     color: #353535;
     font-weight: bold;
 }
 
 .nav-tabs>li>a:hover {
-	background-color: #f77331;
+    border-left: solid 1px #1379e454;
+    border-top: solid 1px #1379e454;
+    border-bottom: solid 1px #fff4ef;
+    border-right: solid 1px #1379e454;
+    background-color: #1379e41c;
+    color: #353535;
+    font-weight: bold;
 }
 
