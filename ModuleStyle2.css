@@ -135,19 +135,7 @@ background: linear-gradient(45deg, black, transparent);
 	background-color: white;	
 }
 
-/* Other */
-.nav-tabs { /*Nav bar gradient */
-  border-bottom: 3px solid #fb7e2959;
-  background-color: white;
-  display: none;
-}
 
-.nav-tabs>li>a {
-    border-left: solid 1px #fed2b4;
-    border-top: solid 1px #fed2b4;
-    border-right: solid 1px #fed2b4;
-    background-image: linear-gradient(45deg, #fff0e6, #fff3eb);
-}
 
 
 /* Social Media */
