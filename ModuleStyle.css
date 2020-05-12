@@ -1,17 +1,19 @@
 /*Header Background*/
 		.page-header{
-			background-image: url('https://raw.githubusercontent.com/luke-day/luke-day.github.io/master/LRC-BG.png');
-			background-repeat: no-repeat;
-
-			background-size:cover;
-			background-position: 50% 50%;
-			width: 100%;
-			min-height: 110px;
-			position:relative;
-			float:right;
-			margin:0;
-			font-size:200%;	
-			background-color: #3E6052;
+		    /*background-image: url('https://raw.githubusercontent.com/luke-day/luke-day.github.io/master/LRC-BG.png');*/
+		    background-repeat: no-repeat;
+		    background-size: cover;
+		    background-position: 50% 50%;
+		    width: 100%;
+		    min-height: 110px;
+		    position: relative;
+		    float: right;
+		    margin: 0;
+		    font-size: 200%;
+		    border-radius: 10px;
+		    border: solid 1px blue;
+		    /* background-color: #3E6052; */
+		    background: linear-gradient(140deg, rgba(254, 217, 251, 0.5) 10%, rgba(133, 235, 254, 0.29) 100%);
 		}
 		.page-header p{
 			font-size: 0.5em;
