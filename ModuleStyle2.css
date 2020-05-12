@@ -112,6 +112,16 @@
 	}
 }
 
+
+
+
+/* Collapsed Topics */
+.course-content ul.ctopics li.section .content .toggle, .course-content ul.ctopics li.section .content.sectionhidden {
+    /*background-color: rgba(255, 255, 255, 1.0);*/
+     background-image: linear-gradient( 358.9deg,  rgba(133,239,254,0.2), rgba(254,240,217,0.4) 20.8%, 108.6%);
+    /*background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(226,240,254,1) 0%, rgba(255,247,228,1) 90% );*/
+}
+
 /* Single Section */
 .single-section {
 	/*background-image: linear-gradient(270deg, #fff4e9, #f4ecff, #ecfff8);*/
