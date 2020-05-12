@@ -1,3 +1,26 @@
+/*Header Background*/
+		.page-header{
+			background-image: url('/LRC-BG.png');
+			background-repeat: no-repeat;
+
+			background-size:cover;
+			background-position: 50% 50%;
+			width: 100%;
+			min-height: 110px;
+			position:relative;
+			float:right;
+			margin:0;
+			font-size:200%;	
+			background-color: #3E6052;
+		}
+		.page-header p{
+			font-size: 0.5em;
+			line-height: 1.4em;
+			padding: 0 15px;
+			color: #040406;
+		}
+
+
 .enrolment {
 	background-image: url('/enrolment.png');
 	background-repeat: no-repeat;
