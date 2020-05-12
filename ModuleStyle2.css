@@ -124,7 +124,7 @@
 
 /* Single Section */
 .single-section {
-	/*background-image: linear-gradient(270deg, #fff4e9, #f4ecff, #ecfff8);*/
+	background-image: linear-gradient(270deg, #fff4e9, #f4ecff, #ecfff8);
 	background-size: 400% 400%;
 	animation: gradient 30s ease infinite;
 	padding-top: 1%;
