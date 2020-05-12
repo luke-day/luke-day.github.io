@@ -251,6 +251,8 @@ background: linear-gradient(45deg, black, transparent);
 /* Navigation */
 .nav-tabs {
     border-bottom: 4px solid #f77331;
+  background-color: white;
+  display: none;
 }
 
 .nav-tabs>.active>a, .nav-tabs>.active>a:hover, .nav-tabs>.active>a:focus, .nav-tabs a.nav-link.active {
@@ -282,12 +284,6 @@ background: linear-gradient(45deg, black, transparent);
     background-color: #1379e41c;
     color: #353535;
     font-weight: bold;
-}
-
-.nav-tabs { /*Nav bar gradient */
-  border-bottom: 3px solid #fb7e2959;
-  background-color: white;
-  display: none;
 }
 
 
