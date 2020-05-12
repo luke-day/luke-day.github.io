@@ -278,7 +278,7 @@ background: linear-gradient(45deg, black, transparent);
 .nav-tabs>li>a {
     border-left: solid 1px #1379e454;
     border-top: solid 1px #1379e454;
-    border-bottom: solid 1px #fff4ef;
+    border-bottom: solid 1px #1379e41c;
     border-right: solid 1px #1379e454;
     /* background-color: #f7733114; */
     background-color: #1379e41c;
