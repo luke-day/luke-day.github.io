@@ -284,3 +284,13 @@ background: linear-gradient(45deg, black, transparent);
     font-weight: bold;
 }
 
+.nav-tabs { /*Nav bar gradient */
+  border-bottom: 3px solid #fb7e2959;
+  background-color: white;
+  display: none;
+}
+
+
+
+
+
