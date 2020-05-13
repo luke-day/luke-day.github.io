@@ -7,10 +7,10 @@
 		    margin: 0;
 		    border-radius: 10px;
 		    border: solid 1px #fed4a852;
-		    /*background: linear-gradient(140deg, rgb(255, 249, 243) 10%, rgb(255, 235, 233) 100%);*/
+		    background: linear-gradient(140deg, rgb(255, 249, 243) 10%, rgb(255, 235, 233) 100%);
 		    /*background: linear-gradient(140deg, rgba(220, 219, 255, 0.44) 0%, rgba(255, 202, 219, 0.28), rgb(255, 245, 233) 100%)*/
 
-		    linear-gradient(140deg, rgba(255, 248, 242) 10%, rgba(133, 157, 254, 0.14) 100%)
+		    /*linear-gradient(140deg, rgba(255, 248, 242) 10%, rgba(133, 157, 254, 0.14) 100%)*/
 		    /*background-size: 400% 400%;*/
 		    /*animation: gradient 30s ease infinite;*/
 		}
@@ -137,7 +137,7 @@ background-color: white;
 
 
 .course-content ul.ctopics li.section .content .toggle, .course-content ul.ctopics li.section .content.sectionhidden {
-    background: linear-gradient(140deg, rgba(255, 248, 242) 10%, rgba(133, 235, 254, 0.29) 100%);
+    background: linear-gradient(140deg, rgba(255, 248, 242) 10%, rgba(133, 157, 254, 0.14) 100%);
     border-color: #80909633;
     color: rgb(74, 100, 140);
 }
