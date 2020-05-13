@@ -126,7 +126,7 @@ background-color: white;
 
 
 .course-content ul.ctopics li.section .content .toggle, .course-content ul.ctopics li.section .content.sectionhidden {
-    background: linear-gradient(140deg, rgba(217, 255, 203, 0.37) 10%, rgba(133, 157, 254, 0.29) 100%);
+    background: linear-gradient(140deg, rgba(203, 255, 225, 0.21) 10%, rgba(133, 157, 254, 0.29) 100%);
     border-color: #8d93ab30;
     color: rgb(60, 86, 130);
 }
@@ -144,7 +144,7 @@ background-color: white;
 }
 
 .course-content ul.ctopics li.section .content .toggle span:hover, .course-content ul.ctopics li.section .content.sectionhidden .toggle span:hover {
-    color: rgb(92, 121, 170);
+    color: rgb(12, 94, 179);
 }
 
 .timeline-Footer {
