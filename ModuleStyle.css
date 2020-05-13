@@ -139,3 +139,22 @@ background-color: white;
     color: rgb(59, 89, 109);
     text-align: left;
 }
+
+.timeline-Footer {
+    padding: 15px;
+    font-size: 12px;
+    background-color: #fffdfa;
+}
+
+.timeline-Header {
+    padding: 10px;
+    background-color: #fffdfa;
+}
+
+.timeline-Tweet {
+    cursor: pointer;
+    padding: 10px;
+    background-color: white;
+    border-left: solid 1px #ffebc4;
+}
+
