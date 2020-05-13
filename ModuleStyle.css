@@ -129,13 +129,18 @@ background-color: white;
     background: linear-gradient(140deg, rgba(217, 255, 203, 0.37) 10%, rgba(133, 157, 254, 0.29) 100%);
     border-color: #8d93ab30;
     color: rgb(60, 86, 130);
-    padding-bottom: 8px;
-    padding-top: 8px;
 }
 
 .course-content ul.ctopics li.section .content .toggle span, .course-content ul.ctopics li.section .content.sectionhidden {
     color: rgb(59, 89, 109);
     text-align: left;
+}
+
+.course-content ul.ctopics li.section .content .toggle span.the_toggle {
+    display: block;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    width: auto;
 }
 
 .timeline-Footer {
