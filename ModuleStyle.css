@@ -150,12 +150,12 @@ background-color: white;
 .timeline-Footer {
     padding: 15px;
     font-size: 12px;
-    background-color: #f7f9ff;
+    background-color: #f7f9ff!important;
 }
 
 .timeline-Header {
     padding: 10px;
-    background-color: #f7f9ff;
+    background-color: #f7f9ff!important;
 }
 
 .timeline-Tweet {
