@@ -126,9 +126,9 @@ background-color: white;
 
 
 .course-content ul.ctopics li.section .content .toggle, .course-content ul.ctopics li.section .content.sectionhidden {
-    background: linear-gradient(140deg, rgba(255, 248, 242) 10%, rgba(133, 157, 254, 0.14) 100%);
-    border-color: #80909633;
-    color: rgb(74, 100, 140);
+    background: linear-gradient(140deg, rgba(217, 255, 203, 0.37) 10%, rgba(133, 157, 254, 0.29) 100%);
+    border-color: #8d93ab30;
+    color: rgb(60, 86, 130);
 }
 
 .course-content ul.ctopics li.section .content .toggle span, .course-content ul.ctopics li.section .content.sectionhidden {
