@@ -5,7 +5,6 @@
 		    position: relative;
 		    float: right;
 		    margin: 0;
-		    border-radius: 10px;
 		    border: solid 1px #ffdd975e;
 		    /*background: linear-gradient(140deg, rgba(255, 212, 159, 0.4) 10%, rgb(237, 255, 247) 100%);*/
 		    background: linear-gradient(140deg, rgba(220, 219, 255, 0.44) 0%, rgba(255, 202, 219, 0.21), rgba(255, 245, 233, 0.48) 100%);
