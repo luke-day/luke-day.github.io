@@ -143,6 +143,10 @@ background-color: white;
     width: auto;
 }
 
+.course-content ul.ctopics li.section .content .toggle span:hover, .course-content ul.ctopics li.section .content.sectionhidden .toggle span:hover {
+    color: rgb(92, 121, 170);
+}
+
 .timeline-Footer {
     padding: 15px;
     font-size: 12px;
