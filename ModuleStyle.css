@@ -243,3 +243,17 @@ background-color: white;
     -webkit-text-fill-color: transparent;
     display: initial;
 }
+
+.blockBG {
+    text-align: center;
+    padding: 16px;
+    background: rgba(255, 248, 242, 0.35);
+    border: solid 1px #ffe5af63;
+    /* background: linear-gradient(90deg, rgb(255, 245, 234) 0%, rgba(255, 245, 235, 0.53) 100%); */
+    margin-top: 24px;
+}
+
+.blockBG :hover {
+    background: rgba(255, 227, 192);
+    border: solid 1px #ffe5af63;
+}
