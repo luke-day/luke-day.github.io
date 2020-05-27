@@ -253,7 +253,3 @@ background-color: white;
     margin-top: 24px;
 }
 
-.blockBG :hover {
-    background: rgba(255, 227, 192);
-    border: solid 1px #ffe5af63;
-}
