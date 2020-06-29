@@ -258,6 +258,6 @@ background-color: white;
 #block-region-side-post .block, #block-region-side-pre .block, .hidden-blocks .block {
     background: linear-gradient(45deg, #dce3fe57, #fff8f5);
     border: #e2e2e2 solid 1px;
-    min-width: 420px;
+    min-width: 400px;
 }
 
